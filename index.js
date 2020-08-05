@@ -1,3 +1,3 @@
-funtion add(a) {
+function add(a) {
   
 }
