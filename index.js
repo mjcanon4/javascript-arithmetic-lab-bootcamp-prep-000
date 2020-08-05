@@ -18,6 +18,6 @@ function increment(n) {
 function decrement(n) {
   return (--n);
 }
-function makeInt(string) {
-  return parseInt(string);
+function makeInt(n) {
+  return parseInt(n);
 }
