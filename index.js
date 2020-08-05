@@ -19,5 +19,5 @@ function decrement(n) {
   return (--n);
 }
 function makeInt(string) {
-  return parseInt(n);
+  return parseInt(string);
 }
